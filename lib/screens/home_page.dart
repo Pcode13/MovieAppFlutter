@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Movei App"),
+        title: const Text("Movie App"),
         leading: const Icon(Icons.menu),
         centerTitle: true,
         actions: const [

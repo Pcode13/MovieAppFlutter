@@ -1,4 +1,4 @@
-# first_app
+# MovieAppFlutter
 
 A new Flutter project.
 
